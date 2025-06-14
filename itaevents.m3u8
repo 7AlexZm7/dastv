@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/borges-01-logo-black-and-white.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/borges-logo-black-and-white.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Khachanov K." tvg-name="12:30 ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Diallo%20G._vs_Khachanov%20K..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -470,7 +470,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Golden League - FYR Macedonia vs Latvia" tvg-name="17:00 Golden League : FYR Macedonia vs Latvia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/FYR%20Macedonia_vs_Latvia.png" group-title="Pallavolo", Arena Sport 4 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-581.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Silver League Women - Latvia W vs Austria W" tvg-name="17:35 Silver League Women : Latvia W vs Austria W - 13/06/25" tvg-logo="https://implyingrigged.info/w/images/thumb/f/f0/Latvia_logo.png/250px-Latvia_logo.png" group-title="Pallavolo", ORF Sport Plus
+#EXTINF:-1 tvg-id="Silver League Women - Latvia W vs Austria W" tvg-name="17:35 Silver League Women : Latvia W vs Austria W - 13/06/25" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/latvia_national_football.png" group-title="Pallavolo", ORF Sport Plus
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League W - Montenegro W vs Hungary W" tvg-name="18:00 Golden League W : Montenegro W vs Hungary W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Montenegro%20W_vs_Hungary%20W.png" group-title="Pallavolo", Duna World Hungary
@@ -551,7 +551,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Goiás" tvg-name="21:00 Brazil - Serie B : CRB vs Goiás - 14/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs York United" tvg-name="00:00 Canadian Premier League : Pacific vs York United - 14/06/25" tvg-logo="https://logocharts.com/wp-content/uploads/2021/12/Pacific-Life-Logo-1600x1600.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs York United" tvg-name="00:00 Canadian Premier League : Pacific vs York United - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Pacific_vs_York%20United.png" group-title="Calcio", Fox Soccer Plus
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ahly vs Inter Miami" tvg-name="02:00 FIFA Club World Cup : Al Ahly vs Inter Miami - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Al%20Ahly_vs_Inter%20Miami.png" group-title="Calcio", SuperSport Premier League
@@ -569,16 +569,16 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Opelka R. vs Bergs Z." tvg-name="16:00 ATP - HERTOGENBOSCH : Opelka R. vs Bergs Z. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Opelka%20R._vs_Bergs%20Z..png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://lavercup.com/wp-content/uploads/2021/08/Auger-Aliassime_profile-2023-v2.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Auger-Aliassime%20F._vs_Fritz%20T..png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://lavercup.com/wp-content/uploads/2021/08/Auger-Aliassime_profile-2023-v2.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Auger-Aliassime%20F._vs_Fritz%20T..png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Shelton B." tvg-name="14:00 ATP - STUTTGART : Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Shelton B." tvg-name="14:00 ATP - STUTTGART : Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Shelton B." tvg-name="14:00 ATP - STUTTGART : Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Shelton B." tvg-name="14:00 ATP - STUTTGART : Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Mertens E. vs Alexandrova E." tvg-name="11:00 WTA - HERTOGENBOSCH : Mertens E. vs Alexandrova E. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Mertens%20E._vs_Alexandrova%20E..png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
@@ -995,19 +995,19 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="NBL - Auckland Tuatara at Wellington Saints" tvg-name="08:30 NBL : Auckland Tuatara at Wellington Saints - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sky Sport 4 NZ
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-591.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="LKL - Lithuanian East vs Zalgiris Kaunas" tvg-name="15:50 LKL : Lithuanian East vs Zalgiris Kaunas - 14/06/25" tvg-logo="https://i.pinimg.com/originals/80/97/40/80974017555e6eef99f9664211c263b8.png" group-title="Basket", Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="LKL - Lithuanian East vs Zalgiris Kaunas" tvg-name="15:50 LKL : Lithuanian East vs Zalgiris Kaunas - 14/06/25" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36a95e7b-f8a7-4000-b3ce-5c0201ebb341/debk9x6-25b5db4f-60d6-4bb6-bbdc-f29d19eb9a57.png/v1/fill/w_800,h_800,strp/polish_lithuanian_commonwealth_symbol_by_cilindr0_debk9x6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMzZhOTVlN2ItZjhhNy00MDAwLWIzY2UtNWMwMjAxZWJiMzQxXC9kZWJrOXg2LTI1YjVkYjRmLTYwZDYtNGJiNi1iYmRjLWYyOWQxOWViOWE1Ny5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Mhu0M7_imZ1rf-G45p5svIytflWIp49iMsmUfckrN2g" group-title="Basket", Arena 2 Premium Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="LKL - Lithuanian East vs Zalgiris Kaunas" tvg-name="15:50 LKL : Lithuanian East vs Zalgiris Kaunas - 14/06/25" tvg-logo="https://i.pinimg.com/originals/80/97/40/80974017555e6eef99f9664211c263b8.png" group-title="Basket", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="LKL - Lithuanian East vs Zalgiris Kaunas" tvg-name="15:50 LKL : Lithuanian East vs Zalgiris Kaunas - 14/06/25" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36a95e7b-f8a7-4000-b3ce-5c0201ebb341/debk9x6-25b5db4f-60d6-4bb6-bbdc-f29d19eb9a57.png/v1/fill/w_800,h_800,strp/polish_lithuanian_commonwealth_symbol_by_cilindr0_debk9x6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMzZhOTVlN2ItZjhhNy00MDAwLWIzY2UtNWMwMjAxZWJiMzQxXC9kZWJrOXg2LTI1YjVkYjRmLTYwZDYtNGJiNi1iYmRjLWYyOWQxOWViOWE1Ny5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Mhu0M7_imZ1rf-G45p5svIytflWIp49iMsmUfckrN2g" group-title="Basket", Sportklub 4 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://clipartcraft.com/images/wnba-logo-small-6.png" group-title="Basket", TNT Sports 2 UK
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-32.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", CBS USA
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://b.fssta.com/uploads/application/wnba/team-logos/Lynx.vresize.350.350.medium.0.png" group-title="Basket", CBS USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-52.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/05/Minnesota-Lynx-Logo.png" group-title="Basket", CBSNY USA
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", CBSNY USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-767.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", Cosmote Sport 5 Greece
@@ -1016,7 +1016,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", TV4 Sportkanalen
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-707.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", Cosmote Sport 5 HD
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://b.fssta.com/uploads/application/wnba/team-logos/Lynx.vresize.350.350.medium.0.png" group-title="Basket", Cosmote Sport 5 HD
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIBA Men's 3X3 Basketball World Tour - DAY 1 - Afternoon vs Vienna" tvg-name="19:05 FIBA Men's 3X3 Basketball World Tour: DAY 1 - Afternoon vs Vienna - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/DAY%201%20-%20Afternoon_vs_Vienna.png" group-title="Basket", Sport 5 Stars Israel
@@ -1136,16 +1136,16 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League - Turkiye vs. Poland" tvg-name="13:00 Nations League : Turkiye vs. Poland - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Turkiye_vs_Poland.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", RTVS Sport Slovakia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="http://pluspng.com/img-png/ukrainian-png--1200.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://i.pinimg.com/originals/1a/4b/cb/1a4bcbba676e3074972848654b85fec1.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - USA vs. Slovenia" tvg-name="18:30 Nations League : USA vs. Slovenia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Slovenia.png" group-title="Pallavolo", Polsat Sport 2 Poland
@@ -1163,7 +1163,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League - USA vs. Slovenia" tvg-name="18:30 Nations League : USA vs. Slovenia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Slovenia.png" group-title="Pallavolo", Sport Klub 4 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Canada vs. France" tvg-name="22:30 Nations League : Canada vs. France - 14/06/25" tvg-logo="https://clipground.com/images/canada-logo-png-11.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League - Canada vs. France" tvg-name="22:30 Nations League : Canada vs. France - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Canada_vs_France.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Canada vs. France" tvg-name="22:30 Nations League : Canada vs. France - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Canada_vs_France.png" group-title="Pallavolo", Arena 1 Premium Serbia
