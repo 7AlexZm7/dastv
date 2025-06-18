@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Wydad Casablanca" tvg-name="18:00 FIFA Club World Cup : Manchester City vs Wydad Casablanca - 18/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Manchester%20City_vs_Wydad%20Casablanca.png" group-title="Calcio", SuperSport Premier League HD
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Wydad Casablanca" tvg-name="18:00 FIFA Club World Cup : Manchester City vs Wydad Casablanca - 18/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750244439_manchester-city-vs-wydad-casablanca.jpg" group-title="Calcio", SuperSport Premier League HD
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Real Madrid vs Al Hilal" tvg-name="21:00 FIFA Club World Cup : Real Madrid vs Al Hilal - 18/06/25" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Real Madrid vs Al Hilal" tvg-name="21:00 FIFA Club World Cup : Real Madrid vs Al Hilal - 18/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750244408_real-madrid-x-al-hilal.jpg" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Pachuca vs Salzburg" tvg-name="00:00 FIFA Club World Cup : Pachuca vs Salzburg - 18/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Pachuca_vs_Salzburg.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Pachuca vs Salzburg" tvg-name="00:00 FIFA Club World Cup : Pachuca vs Salzburg - 18/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750244335_pachuca-x-salzburg.jpg" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ain vs Juventus" tvg-name="03:00 FIFA Club World Cup : Al Ain vs Juventus - 18/06/25" tvg-logo="https://logodetimes.com/times/al-ain/logo-al-ain-1536.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ain vs Juventus" tvg-name="03:00 FIFA Club World Cup : Al Ain vs Juventus - 18/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750244330_al-ain-x-juventus.jpg" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Bautista-Agut R. vs Mensik J." tvg-name="13:00 ATP - LONDON : Bautista-Agut R. vs Mensik J. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Bautista-Agut%20R._vs_Mensik%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -23,7 +23,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs McDonald M." tvg-name="17:30 ATP - LONDON : Rune H. vs McDonald M. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Rune%20H._vs_McDonald%20M..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Bergs Z. vs Khachanov K." tvg-name="11:30 ATP - HALLE : Bergs Z. vs Khachanov K. - 18/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230822/original/pngtree-z-letter-logo-design-with-water-splash-ripple-template-picture-image_8188324.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Bergs Z. vs Khachanov K." tvg-name="11:30 ATP - HALLE : Bergs Z. vs Khachanov K. - 18/06/25" tvg-logo="https://companiesmarketcap.com/img/company-logos/256/BRG-B.ST.png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Giron M. vs Zverev A." tvg-name="13:00 ATP - HALLE : Giron M. vs Zverev A. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Giron%20M._vs_Zverev%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 10
